@@ -15,13 +15,15 @@ Here's the gist of my counter-argument to AI and LLM skeptics:
 
 ---
 
-## 'Knowledge' Is a Subjective Concept
+## Can AI-Derived Information Be Considered 'Knowledge'?
 
 *All* information, whether it originates from humans or computers, can be treated as suspicious.
 
 One man's knowledge is another's wild conspiracy theory — and another's unvalidated opinion. We each curate what we regard to be our own collection of "knowledge," and we each own our own version of truth. Like fingerprints, no two are identical. To suggest that LLMs are rupturing a pristine and objective set of thinking is, firstly, mistaken.
 
 We may be able to point to objective flaws in the types of information that large language models (LLMs) generate. Challenges like hallucinations and shallow contextual understanding are well-known and widely discussed. These are also challenges that are actively being explored and mitigated by technologies like RAG.
+
+### While Flawed, LLMs Outputs Are Far From Useless
 
 However, to dismiss the utility of robust LLMs in helping to mine and explore human understanding is like saying that we should stop funding public libraries because some of the books they contain are evidently hogwash or contain outdated or erroneous science. Or that we should abandon using search engines like Google because much of the information they retrieve is non-useful and inaccurate affiliate marketing.
 
@@ -43,9 +45,15 @@ The modest knowledge-base project I am working on as a passion project "built in
 
 My focus since I began working on this has been on capturing LLM outputs at scale — and I began building this solely because output capture has been neglected in virtually all major LLMs. Like many passion projects, it began with failing to find a solution among current technologies that seemed to fit intuitively with my needs.
 
+---
+
+### Why Does Output Management Get So Little Love From AI Vendors?
+
 The relative paucity of tools to store LLM outputs felt — and to me still does — like an enormous pity.
 
 Capturing text digitally in the year 2024 is trivially easy: millions of outputs can be stored in a markdown archive that barely touches 100 MB. Tools for taking notes, reading notes, and mapping connections as graphs also abound.
+
+![alt text](images/banner1.png)
 
 Although no real technical constraints prevent them from doing so, mainstream LLM platforms (ChatGPT, Claude, et al.) have paid almost no attention to facilitating functional systems that allow users to retain and organize the data they receive back from LLMs (collectively, outputs).
 
