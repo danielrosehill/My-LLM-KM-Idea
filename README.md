@@ -61,6 +61,10 @@ But as much as this presents a challenge, I believe it presents an opportunity.
 
 If the main benefit of using LLMs is to assist with finding "directions" in research avenues rather than retrieving 100% accurate information, keeping track of those directions - the relationships between prompts, outputs, and follow up conversations - is arguably much more interesting and valuable than the knowledge at face value. Or at least, they both offer independent utility.
 
+![alt text](images/image2.webp)
+
+## Secondary Benefits That Derive From Organised Prompt And Output Storage In Information Systems
+
 With that in mind, as my project has evolved, I've begun thinking about a few specific additional directions:
 
 - How an AI middleware layer could be used to autonomously establish the relationships between stored outputs, helping users to make sense of the growing collection of AI-generated knowledge as it grows. Practical use-cases in a collaborative knowledge-sharing environment might be allowing users to discover existing lines of enquiry into overlapping topics that have been conducted within the organisation, potentially allowing for collaborations that mightn't have otherwise occurred.
