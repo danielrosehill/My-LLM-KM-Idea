@@ -89,6 +89,26 @@ These and many other features can be enabled by robust output management and sto
 
 ---
 
+## ThoughtNet Stack - V1
+
+*Summer to Sep 24*
+
+![alt text](images/v1.png)
+
+### Components
+
+- PostgreSQL (Supabase)
+- ChatGPT web UI
+- React frontend (Laravel Nova)
+
+Proof of concept achieved but ... lots of data relationships = cumbersome frontend building process and poor database performance.
+
+## "ThoughtNet" Stack - V2
+
+A pivoted stack intended to provide more intuitive support for a graph database backend to support native handling of relationships.
+
+![alt text](images/v2.png)
+
 ## Author
 
 Daniel Rosehill  
