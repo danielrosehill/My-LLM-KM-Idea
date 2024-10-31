@@ -15,7 +15,7 @@ Here's the gist of my counter-argument to AI and LLM skeptics:
 
 ---
 
-### 'Knowledge' Is a Subjective Concept
+## 'Knowledge' Is a Subjective Concept
 
 *All* information, whether it originates from humans or computers, can be treated as suspicious.
 
@@ -35,7 +35,9 @@ This does not mean that LLMs are immune from things like censorship and manipula
 
 But to point solely to the deficiencies of any emerging technology is to miss the huge opportunity they can bring in knowledge retrieval. And knowledge retrieval is arguably the order of the day. Being saturated in data is arguably just as useless as being deficient in it. Traditional search engines that rely on indexing emerging data struggle. LLMs present a very different and powerful new approach that is — at least — a worthy accompaniment to existing search tools.
 
-### Why Capture and Organize LLM Outputs in the First Place, Though?
+---
+
+## Why Capture and Organize LLM Outputs in the First Place, Though?
 
 The modest knowledge-base project I am working on as a passion project "built in public" is simply an attempt to come up with a technical system that can play to the strengths of both AI tools and humans by providing a digitally robust system for capturing and mapping the various fundamental components of the LLM chains in use today (my definition of these is something like: prompts, outputs, model and agent configurations, and contextual data — the latter includes vectorized knowledge stores and RAG systems).
 
@@ -64,6 +66,8 @@ If the main benefit of using LLMs is to assist with finding "directions" in rese
 
 ![alt text](images/image2.webp)
 
+---
+
 ## Secondary Benefits That Derive from Organized Prompt and Output Storage in Information Systems
 
 With that in mind, as my project has evolved, I've begun thinking about a few specific additional directions:
@@ -74,6 +78,8 @@ With that in mind, as my project has evolved, I've begun thinking about a few sp
 - LLMs are fast evolving. By collecting outputs, one builds up a repository of data that could later be mined to determine insights about the evolution of LLM models themselves. Once prompts and outputs are properly related and saved in this system, this data could be used to determine how LLM response patterns are shifting over time, which use-cases are becoming more feasible as capabilities evolve, and which prompting strategies need refining and adjustments.
 
 These and many other features can be enabled by robust output management and storage.
+
+---
 
 ## Author
 
