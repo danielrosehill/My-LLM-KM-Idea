@@ -103,11 +103,27 @@ These and many other features can be enabled by robust output management and sto
 
 Proof of concept achieved but ... lots of data relationships = cumbersome frontend building process and poor database performance.
 
+---
+
 ## "ThoughtNet" Stack - V2
+
+![alt text](images/v2.png)
 
 A pivoted stack intended to provide more intuitive support for a graph database backend to support native handling of relationships.
 
-![alt text](images/v2.png)
+- Graph database
+- Backend logic
+- Frontend: markdown handling and LLM API integrations
+
+### Hoped-for features
+
+- A perfectly functional system for storing LLM outputs directly in a graph database
+- Great markdown handling to leverage the best features of tools like Obsidian and take advantage of LLMs' affinity for working with markdown
+- Recall previous outputs and context snippets on subsequent prompts
+- Recall of prompts and outputs
+- Features to support discovery of related outputs
+- Features to support topic cluster discovery and trends over time (topics fading in and out of interest, thought processes evolving)
+- Visualisation of KM system as a growing graph
 
 ## Author
 
