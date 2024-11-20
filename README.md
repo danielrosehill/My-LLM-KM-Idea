@@ -2,6 +2,8 @@
 
 ![alt text](images/header.webp)
 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)]( https://github.com/danielrosehill/My-LLM-KM-Idea)
+
 ## Why I'm Working on This Passion Project
 
 *By: Daniel Rosehill*  
@@ -9,7 +11,7 @@
 
 Since the early summer of 2024, I've been working on a system (for personal use) for creating an optimized workflow for generating and organizing knowledge "derived" from AI tools.
 
-To many, the idea of describing the outputs of AI as "knowledge" seems paradoxical or even laughable. My perspective is different, and like all instances in which my thinking differs from convention, I feel more encouraged to share it, if for no other reason than to widen the pool of perspectives on this important topic.
+To many, the idea of describing the outputs of AI as "knowledge" seems paradoxical or even laughable. My perspective is different, and like all instances in which my thinking differs from con vention, I feel more encouraged to share it, if for no other reason than to widen the pool of perspectives on this important topic.
 
 Here's the gist of my counter-argument to AI and LLM skeptics:
 
